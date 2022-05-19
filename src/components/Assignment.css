@@ -1,0 +1,49 @@
+.assign-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* background-color: red; */
+  flex-direction: column;
+  width: 100vw;
+  padding: 1rem;
+}
+
+.tab-container {
+  width: 100%;
+}
+
+.assign-button {
+  color: cyan;
+}
+
+
+.main-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: space-between;
+  justify-content: center;
+  padding: 1rem;
+  margin: 1rem;
+}
+.left{
+  width: 30%;
+}
+
+.center {
+  width: 20%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.right {
+  width: 30%;
+}
+
+.Assignment {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}

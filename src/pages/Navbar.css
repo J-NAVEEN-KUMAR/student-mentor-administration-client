@@ -1,0 +1,28 @@
+.title {
+  font-family: "Lobster", cursive;
+  margin-left: 0.5rem;
+  color:cyan !important;
+}
+.avatar {
+  border-radius: 50%;
+}
+
+.navbar-toggler {
+  color: white !important;
+}
+
+.sub-title {
+  color: cyan !important;
+  border-radius: 10%;
+}
+
+.sub-title:hover {
+  background-color: rgb(34, 83, 83);
+}
+
+.navbar-routes {
+  width: 75%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
